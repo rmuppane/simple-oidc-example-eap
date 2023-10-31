@@ -1,0 +1,7 @@
+{
+  "provider-url" : "http://localhost:8180/auth/realms/example_realm",
+  "ssl-required": "external",
+  "client-id": "my_jbeap",
+  "public-client": true,
+  "confidential-port": 0
+}
